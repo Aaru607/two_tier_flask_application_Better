@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Flask App with MySQL Docker Setup
 
@@ -128,3 +129,6 @@ docker run -d \
 
 ```
 
+=======
+# two_tier_flask_application_Better
+>>>>>>> ca08b5223f5f308b27949143248fad71ae2f7cc0
